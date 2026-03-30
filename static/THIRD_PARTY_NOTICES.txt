@@ -1,0 +1,12 @@
+POEtimeless third-party notices
+
+1. This project contains adapted components from:
+   https://github.com/Vilsol/timeless-jewels
+   License: GPL-3.0
+   Local license copy: /UPSTREAM-GPL-3.0.txt
+
+2. The Path of Exile passive skill tree data referenced by this project is associated with
+   official Grinding Gear Games exports:
+   https://github.com/grindinggear/skilltree-export
+
+3. This local build removes non-essential third-party branding assets and keeps source attribution visible.

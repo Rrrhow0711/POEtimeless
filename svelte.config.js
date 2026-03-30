@@ -10,6 +10,9 @@ const config = {
   }),
 
   kit: {
+    paths: {
+      base: process.env.GITHUB_ACTIONS ? '/POEtimeless' : ''
+    },
     adapter: adapter({
       pages: 'build',
       assets: 'build',
